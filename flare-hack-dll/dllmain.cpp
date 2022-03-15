@@ -32,12 +32,6 @@ DWORD WINAPI loop(void *p) {
     input = GetStdHandle(STD_INPUT_HANDLE);
     output = GetStdHandle(STD_OUTPUT_HANDLE);
 
-
-    std::ofstream asdasdasd();
-    asdasdasd().
-
-    std::cout << "lukas' ketchup sodavand" << std::endl;
-
     while (true) {
         current = 0;
         DWORD numbytes;
